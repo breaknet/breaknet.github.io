@@ -1,0 +1,3 @@
+URL/URL path to exclude: breaknet.org (and all subdomains)
+time period of domain ownership: 2002-09-26 to present
+time period to exclude: 2002-09-26 to 2022-01-23
